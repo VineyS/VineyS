@@ -9,7 +9,7 @@
 
 - 🌱 I’m planning to learn **Java, GO, ReactJs**
 
-- 💬 Ask me anything @ (Discord)[https://discord.com/users/519497149738778635]
+- 💬 Ask me anything @ [Discord](https://discord.com/users/519497149738778635)
 
 - 📫 How to reach me **[vineypsunu@gmail.com](mailto:vineypsunu@gmail.com)**
 
